@@ -1,0 +1,3 @@
+This Python program simulates a coin toss experiment using the NumPy library. It performs 500 virtual coin flips and randomly selects either Heads (H) or Tails (T) for each flip, ensuring equal probability for both outcomes. After generating the results, the program counts how many times Heads and Tails occur by comparing the outcomes and summing them separately.
+
+The code then calculates the percentage of Heads and Tails by dividing their counts by the total number of flips and multiplying by 100. Finally, it prints the total number of tosses along with the count and percentage of Heads and Tails. This simulation helps demonstrate the concept of randomness and probability, showing how the results of a large number of coin tosses tend to approach a fair distribution.
